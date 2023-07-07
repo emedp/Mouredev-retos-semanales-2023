@@ -2,3 +2,6 @@
 
 Repositorio donde subo mis soluciones a los retos de código que propone semanalmente el streamer durante el 2023:
 https://github.com/mouredev/retos-programacion-2023
+
+## Listado de los retos:
+0. Fizz Buzz

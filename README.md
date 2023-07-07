@@ -6,3 +6,4 @@ https://github.com/mouredev/retos-programacion-2023
 ## Listado de los retos:
 0. Fizz Buzz
 1. Lenguaje hacker
+2. Partido de tennis

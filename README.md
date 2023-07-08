@@ -11,3 +11,4 @@ https://github.com/mouredev/retos-programacion-2023
 4. Primo, Fibonacci y par
 5. Hola mundo
 6. Piedra, papel, tijera, lagarto, spock
+7. Sombrero seleccionador

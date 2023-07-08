@@ -12,3 +12,4 @@ https://github.com/mouredev/retos-programacion-2023
 5. Hola mundo
 6. Piedra, papel, tijera, lagarto, spock
 7. Sombrero seleccionador
+8. Generador de pseudoaleatorios

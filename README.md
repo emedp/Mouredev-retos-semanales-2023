@@ -24,3 +24,7 @@ https://github.com/mouredev/retos-programacion-2023
 17. Git y Github
 18. Web scrapping
 19. Análisis de texto
+20. xxx
+21. xxx
+22. xxx
+23. Base de datos

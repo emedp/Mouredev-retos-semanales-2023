@@ -19,3 +19,5 @@ https://github.com/mouredev/retos-programacion-2023
 12. Viernes 13
 13. Adivina la palabra
 14. Octal y hexadecimal
+15. xxx
+16. Escalera

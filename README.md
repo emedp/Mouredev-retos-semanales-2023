@@ -23,3 +23,4 @@ https://github.com/mouredev/retos-programacion-2023
 16. Escalera
 17. Git y Github
 18. Web scrapping
+19. Análisis de texto

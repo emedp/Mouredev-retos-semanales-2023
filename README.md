@@ -16,3 +16,4 @@ https://github.com/mouredev/retos-programacion-2023
 9. Heterograma, isograma y pangrama
 10. LLamada a API
 11. Parámetros de URL
+12. Viernes 13

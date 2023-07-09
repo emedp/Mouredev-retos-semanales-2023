@@ -17,3 +17,4 @@ https://github.com/mouredev/retos-programacion-2023
 10. LLamada a API
 11. Parámetros de URL
 12. Viernes 13
+13. Adivina la palabra

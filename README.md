@@ -32,3 +32,4 @@ https://github.com/mouredev/retos-programacion-2023
 25. código Konami
 26. Testing
 27. Cuenta atrás
+28. Expresión matemática

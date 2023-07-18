@@ -33,3 +33,4 @@ https://github.com/mouredev/retos-programacion-2023
 26. Testing
 27. Cuenta atrás
 28. Expresión matemática
+29. El carácter infiltrado

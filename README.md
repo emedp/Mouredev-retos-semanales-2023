@@ -36,3 +36,5 @@ https://github.com/mouredev/retos-programacion-2023
 29. El carácter infiltrado
 30. Teclado T9
 31. Ábaco
+32. xxx
+33. Tetris
